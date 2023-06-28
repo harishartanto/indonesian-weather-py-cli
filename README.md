@@ -30,7 +30,7 @@ Before running the program, ensure you have the following installed:
 3. Install the required packages: 
 
    ```bash
-   $ cd pip install -r requirements.txt
+   $ pip install -r requirements.txt
    ```
 
 ## Usage
