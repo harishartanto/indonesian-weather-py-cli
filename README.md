@@ -53,4 +53,4 @@ To use Indonesian Weather Py CLI, follow these steps:
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). Please read the [LICENSE](LICENSE) file for more 
+This project is licensed under the [MIT License](LICENSE). Please read the [LICENSE](LICENSE) file for more details.
