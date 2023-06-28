@@ -19,7 +19,7 @@ Before running the program, ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   $ git clone https://github.com/your_username/indonesian-weather-py-cli.git
+   $ git clone https://github.com/harishartanto/indonesian-weather-py-cli.git
    ```
 
 2. Change into the project directory: 
